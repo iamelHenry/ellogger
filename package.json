@@ -1,0 +1,26 @@
+{
+  "name": "@elhenry/ellogger",
+  "version": "1.1.0",
+  "description": "A winston implementation with a standard format",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamelHenry/ellogger.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "winston",
+    "logger"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-winston": "^4.2.0",
+    "winston": "^3.7.2"
+  },
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
